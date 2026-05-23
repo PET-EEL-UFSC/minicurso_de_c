@@ -17,7 +17,7 @@ int main(void) {
     float valor_distancia = distancia * tarifa_por_km;
     float valor_total = valor_peso + valor_distancia + taxa_manuseio;
 
-    // Exibição do comprovante
+    // Comprovante
     printf("\n=== Comprovante de Frete ===\n");
     printf("Peso: %.2f kg\n", peso);
     printf("Distancia: %.2f km\n\n", distancia);
