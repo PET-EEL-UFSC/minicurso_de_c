@@ -32,7 +32,7 @@ Data de nascimento: 05/10/2007
 Idade: 18 anos
 Inicial do nome: M
 Altura: 1.65 m
-Peso: 60.50 kg
+Peso: 60.00 kg
 ```
 
 ## Desafios (extra)
