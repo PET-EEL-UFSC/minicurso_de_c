@@ -28,11 +28,11 @@ Crie um programa em **C** que:
 
 ```
 === Meus Dados Pessoais ===
-Data de nascimento: 15/03/2001
-Idade: 23 anos
-Inicial do nome: A
-Altura: 1.75 m
-Peso: 70.50 kg
+Data de nascimento: 05/10/2007
+Idade: 18 anos
+Inicial do nome: M
+Altura: 1.65 m
+Peso: 60.50 kg
 ```
 
 ## Desafios (extra)
