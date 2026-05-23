@@ -1,4 +1,4 @@
-# Exercício 1 – Dados Pessoais
+# Exercício 6 – Dados Pessoais
 
 Declare variáveis com seus próprios dados pessoais, inicialize-as com valores reais e utilize `printf` para exibir todas as informações de forma organizada na tela.
 
