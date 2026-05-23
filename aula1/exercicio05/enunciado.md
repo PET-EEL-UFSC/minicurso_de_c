@@ -1,6 +1,6 @@
 # Exercício 5 – Cálculo do custo de uma corrida de aplicativo
 
-Um aplicativo de transporte calcula o valor de uma corrida com base nas seguintes informações fornecidas pelo usuário:
+Um aplicativo de corrida calcula o valor de uma corrida com base nas seguintes informações fornecidas pelo usuário:
 
 - **Distância percorrida (em km)**
 - **Tempo da corrida (em minutos)**
