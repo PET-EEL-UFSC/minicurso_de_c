@@ -122,10 +122,11 @@ Todos os exercícios possuem:
 
 Este material foi desenvolvido pelo **PETEEL - Programa de Educação Tutorial em Engenharia Elétrica** da **Universidade Federal de Santa Catarina (UFSC)**.
 
-**Material Desenvolvido por**: Arthur Maeda  
+**Material Desenvolvido por**: Arthur Maeda
+**Material atualizado e complementado por**: Manuela Godoy, Guilherme Buzzi, Geovane Caetano, Alexandre Eger
 **Instituição**: PETEEL UFSC  
-**Data**: Março de 2026  
-**Turma**: Turma 2
+**Data**: Março de 2026
+**Data atualização**: Maio/junho de 2026
 
 ---
 
