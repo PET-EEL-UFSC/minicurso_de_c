@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-void caixa_registradora() {
+int main() {
     int preco1, preco2;
  
     printf("Digite o preco do produto 1 (em centavos): ");
@@ -13,4 +13,5 @@ void caixa_registradora() {
     printf("Multiplicacao: %d\n",           preco1 * preco2);
     printf("Divisao inteira: %d\n",         preco1 / preco2);
     printf("Resto: %d\n",                   preco1 % preco2);
+    return 0;
 }
