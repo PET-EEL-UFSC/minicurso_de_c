@@ -1,4 +1,4 @@
-## Exercício 2 — Aprovação Escolar com Conceitos
+## Exercício 2 — Situação escolar
  
 Um colégio adota um sistema de avaliação em três etapas. O sistema deve ler as três notas de um aluno, calcular a média e informar sua situação.
  
