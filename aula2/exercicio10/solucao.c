@@ -1,10 +1,10 @@
 #include <stdio.h>
 
 int main(void) {
-    int idade, regularizado, tipo_voto;
+    int idade, situcao, tipo_voto;
 
     scanf("%d", &idade);
-    scanf("%d", &regularizado);
+    scanf("%d", &situacao);
     scanf("%d", &tipo_voto);
 
     if (tipo_voto < 1 || tipo_voto > 3) {
@@ -19,7 +19,7 @@ int main(void) {
     }
 
     // Validar regularização
-    if (regularizado == 0) {
+    if (situacao == 0) {
         printf("NAO PODE VOTAR - Procure se regularizar eleitoralmente\n");
         return 0;
     }
