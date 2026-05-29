@@ -1,4 +1,4 @@
-## Exercício 2 — Classificador de Desempenho Acadêmico
+## Exercício 5 — Classificador de Desempenho Acadêmico
  
 Uma universidade precisa de um sistema que leia a nota final de um aluno e classifique seu desempenho com base nos critérios abaixo. O sistema também deve validar se a nota inserida é válida.
  
