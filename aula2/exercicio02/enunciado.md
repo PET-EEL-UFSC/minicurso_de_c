@@ -7,7 +7,7 @@ Um colégio adota um sistema de avaliação em três etapas. O sistema deve ler 
 | Média | Situação |
 |---|---|
 | Média ≥ 7.0 | `APROVADO` |
-| 5.0 ≤ Média < 7.0 | `RECUPERACAO` |
+| 5.0 ≤ Média < 7.0 | `EM RECUPERACAO` |
 | Média < 5.0 | `REPROVADO` |
  
 ### Entrada
