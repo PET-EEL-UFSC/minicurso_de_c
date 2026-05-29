@@ -10,7 +10,7 @@ int main() {
     scanf("%f", &nota3);
 
     media = (nota1 + nota2 + nota3) / 3.0f;
-    printf("Media: %.2f\n", media);
+    printf("Media final: %.2f\n", media);
 
     if (media >= 7.0f) {
         printf("Situacao: APROVADO\n");
