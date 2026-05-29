@@ -7,7 +7,6 @@ int main() {
     scanf("%d", &preco1);
     printf("Digite o preco do produto 2 (em centavos): ");
     scanf("%d", &preco2);
- 
     printf("\nSoma: %d centavos\n",         preco1 + preco2);
     printf("Subtracao: %d centavos\n",      preco1 - preco2);
     printf("Multiplicacao: %d\n",           preco1 * preco2);
