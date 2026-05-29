@@ -1,4 +1,4 @@
-# Desafio: Sistema de Controle de Acesso de Laboratório
+# Exercício 6: Sistema de Controle de Acesso de Laboratório
 
 Um laboratório de pesquisa possui um sistema simples de controle de acesso baseado em regras de segurança.
 
