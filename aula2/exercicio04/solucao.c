@@ -1,9 +1,3 @@
-/*
- * SOLUCAO — Tarefa de Casa, Exercicio 1
- * Sistema de Telemetria de Corrida
- * Compile: gcc -o telemetria tarefa1_telemetria.c
- */
-
 #include <stdio.h>
 
 int main() {
