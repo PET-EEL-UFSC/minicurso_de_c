@@ -109,7 +109,7 @@ sudo dnf install gcc gcc-c++ make
 
 ## 📝 Sobre os Exercícios
 
-Todos os exercícios possuem:
+Os exercícios possuem:
 
 ✓ **Enunciado detalhado** em Markdown  
 ✓ **Contexto realista** em Engenharia Elétrica  
