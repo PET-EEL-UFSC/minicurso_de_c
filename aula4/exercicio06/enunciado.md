@@ -1,4 +1,4 @@
-# Desafio: Sistema de Monitoramento de Sensores de Temperatura em Transformador
+# Exercício 6: Sistema de Monitoramento de Sensores de Temperatura em Transformador
 
 Um transformador elétrico possui múltiplos sensores de temperatura distribuídos em diferentes pontos (núcleo, bobinas, óleo isolante, etc). É necessário monitorar esses sensores para garantir que o transformador não ultrapasse temperaturas críticas.
 
